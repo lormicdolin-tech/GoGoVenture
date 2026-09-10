@@ -8,7 +8,7 @@
     text-align: left;
     color: rgb(0, 0, 0);
     display: flex;
-    background-color: rgb(108, 38, 38);
+    background-color: rgb(198, 142, 142);
     font-family: "Help Me", sans-serif;
     position: relative;
     z-index: 1;
@@ -19,12 +19,12 @@
 }
 
 .here label{
-    color: rgb(165, 0, 0);
+    color: rgb(164, 115, 115);
     font-family: "Help Me", sans-serif;
 }
 
 .here p{
-    color: rgb(165, 0, 0);
+    color: rgb(124, 110, 110);
     font-family: "Help Me", sans-serif;
 }
 
@@ -58,7 +58,7 @@ body{
 
 .there{
     text-align: center;
-    color: rgb(255, 0, 0);
+    color: rgb(226, 204, 204);
     font-family: "Help Me", sans-serif;
 }
 .here form{
@@ -83,7 +83,7 @@ body{
 }
 .here form button{
     margin-top: 40px;
-    background-color: red;
+    background-color: rgb(167, 147, 147);
     border:1px solid;
     font-family: "Help Me", sans-serif;
 }
